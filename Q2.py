@@ -1,9 +1,3 @@
-"""Algorithm:
-0)Open your Laptop
-1)Take maximum bonus
-2)See which all traders have skills[i] greater than equal to risk[i] and assign them this ith task
-For reamining traders
-3) Find next maximum bonus and see which traders have skills[i]>=risk[i] and similarily continue"""  
 test_cases=int(input())
 for q in range(test_cases):
     total_bonus=0
